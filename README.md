@@ -11,13 +11,13 @@ A Power BI dashboard analysing Superstore sales performance across shipping meth
 
 ## Key Insights
 
-- **Shipping behaviour:** Standard Class dominates shipping method by a wide margin (£7.58M vs £0.67M for Same Day), suggesting customers strongly favour cost over speed — worth investigating whether faster shipping is priced/promoted effectively.
-- **Customer segment:** Consumer accounts for over half of total sales (51%), more than double Home Office and Corporate combined proportionally — indicating the business is heavily consumer-driven rather than B2B-led.
+- **Shipping behaviour:** Standard Class dominates shipping method by a wide margin (£1.63M vs £0.15M for Same Day), suggesting customers strongly favour cost over speed — worth investigating whether faster shipping is priced/promoted effectively.
+- **Customer segment:** Consumer accounts for over half of total sales (54%), more than double Home Office and Corporate combined proportionally — indicating the business is heavily consumer-driven rather than B2B-led.
 - **Product performance:** Phones lead all sub-categories in sales, notably ahead of Copiers and Chairs.
 - **YoY growth:** Built a full year-over-year sales comparison (2011 vs 2012) using SAMEPERIODLASTYEAR, showing consistent growth across most months, with a notable dip in July both years — a possible seasonal pattern worth monitoring in future data.
 
 ## Dashboard Preview
-![Superstore Dashboard](<img width="1322" height="704" alt="image" src="https://github.com/user-attachments/assets/b55d2da5-f063-43cd-adcf-1102163f8554" />)
+![Superstore Dashboard](<img width="1322" height="704" alt="image" src="https://github.com/user-attachments/assets/b55d2da5-f063-43cd-adcf-1102163f8554"/>)
 
 
 ## What This Project Demonstrates
