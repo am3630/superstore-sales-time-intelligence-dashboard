@@ -17,7 +17,7 @@ A Power BI dashboard analysing Superstore sales performance across shipping meth
 - **YoY growth:** Built a full year-over-year sales comparison (2011 vs 2012) using SAMEPERIODLASTYEAR, showing consistent growth across most months, with a notable dip in July both years — a possible seasonal pattern worth monitoring in future data.
 
 ## Dashboard Preview
-![Superstore Dashboard](<img width="1322" height="704" alt="image" src="https://github.com/user-attachments/assets/b55d2da5-f063-43cd-adcf-1102163f8554"/>)
+![Superstore Dashboard](<img width="1322" height="703" alt="image" src="https://github.com/user-attachments/assets/faea515d-7d99-46ae-829c-cf746f8a8683" />)
 
 
 ## What This Project Demonstrates
